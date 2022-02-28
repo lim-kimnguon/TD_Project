@@ -1,0 +1,121 @@
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 35px;
+    width: 100%;
+    height: 100%;
+
+}
+
+.sub-header {
+    width: fit-content;
+    border-bottom: 3px solid orange;
+    margin-bottom: 35px;
+}
+
+.sub-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    
+}
+
+.sub-container div {
+    padding: 25px;
+    border: 1px solid rgb(238, 238, 238);
+    position: relative;
+}
+
+.sub-container div h3{
+    margin-top: 35px;
+}
+
+.sub-container div .year{
+    position: absolute;
+    background-color: rgb(137, 218, 17);
+    left: 0;
+    top: 0;
+    width: 30%;
+    padding: 13px;
+    color: white;
+    text-align: left;
+}
+
+.sub-container div .year1 {
+    position: absolute;
+    background-color: rgb(137, 218, 17);
+    left: 0;
+    top: 0;
+    width: 60%;
+    padding: 13px;
+    color: white;
+    text-align: left;
+    /* padding: 12px 12px 12px 25px; */
+}
+
+@media screen and (max-width: 1160px){
+    .sub-container div .year1 {
+        width: 87%;
+    }
+}
+
+.sub-container div h5{
+    opacity: 0.5;
+    margin-bottom: 10px;
+    margin-top: 4px;
+}
+
+.sub-container div p{
+    line-height: 1.6;
+}
+
+
+.button {
+    margin-top: 30px;
+}
+
+.btn {
+    padding: 15px;
+    background-color: white;
+    border: 2px solid orange;
+    width: 60%;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background-color: rgb(231, 226, 226);
+}
+
+.btn a {
+    text-decoration: none;
+    color: black;
+}
+
+.skills {
+    display: block; 
+}
+
+.skill1 {
+    margin-bottom: 50px;
+}
+
+.sub-skill {
+    margin-bottom: 12px;
+    line-height: 2;
+}
+
+.skill-bars {
+    width: 85%;
+    height: 10px;
+    background-color: white;
+    border: 3px solid orange;
+    border-radius: 20px;
+}
+
+.bar {
+    background-color: orange;
+    height: 7px;
+    margin-top: 1.8px; 
+    border-radius: 10px;
+    margin-left: 2px;
+}
