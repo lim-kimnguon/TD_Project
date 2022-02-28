@@ -1,14 +1,22 @@
 Home Page:
-![127 0 0 1_5500_home html (1)](https://user-images.githubusercontent.com/77984230/144057826-f294b746-ed23-4322-80c3-df7e95d1d1b8.png)
+![Fullscreen-Home-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021701-3d714720-2cab-4674-bd2e-59c95cb4af7a.png)
 
 
 About-Me Page:
-![127 0 0 1_5500_about_me html (9)](https://user-images.githubusercontent.com/77984230/144057821-533bbff6-7a43-4f9d-b97b-d6d1f2a9ce7e.png)
+![Fullscreen-About Me-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021693-99acbbf1-d719-4110-93fc-c28df8ab8712.png)
 
 
 Portfolio Page:
-![127 0 0 1_5500_portfolio html (23)](https://user-images.githubusercontent.com/77984230/144757979-ac93ed87-6e54-4114-8888-ae772b28c370.png)
+![Fullscreen-Portfolio-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021680-3630dd33-fade-4e41-89c5-b6650078ae31.png)
 
 
 Blog Page:
-![127 0 0 1_5500_blog html (6)](https://user-images.githubusercontent.com/77984230/144757984-55c743ac-ca68-47e7-bd41-f1870830b9ef.png)
+![Fullscreen-Blog-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021696-eb50df83-4cf6-42eb-ac13-81c1bbbb9ec0.png)
+
+
+Resume Page:
+![Fullscreen-Resume-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021419-dc5d82eb-fd6d-40ff-88ec-b373734a1aa4.png)
+
+
+Contact Page:
+![Fullscreen-Contact-LIM KIM NGUON](https://user-images.githubusercontent.com/77984230/156021398-599b22ab-c94e-4b10-aab4-dd16b7933936.png)
