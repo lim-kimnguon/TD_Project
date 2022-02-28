@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.menu{
+    width: 21.5%;
+    position: fixed; 
+    border-right: 15px solid rgb(241, 237, 237);
+    height: 100%;
+    padding-top: 40px;
+}
+
+.menu img{
+    width: 120px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 100%;
+}
+
+.menu h2{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+
+.menu h4{
+    color: rgb(168, 166, 166);
+}
+
+.menu ul{
+    padding: 0;
+    margin-top: 30px;
+}
+
+.menu li{
+    border-top: 1px solid rgb(241, 237, 237);
+    border-bottom: 1px solid rgb(241, 237, 237);
+    padding: 15px;
+}
+
+.menu li.active{
+    border-right: 4px solid rgb(255, 166, 0);
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    margin-top: 25px;
+}
+
+i{
+    padding-right: 10px;
+}
+
+.container-about{
+    margin-left: 30%;
+    width: 60%;
+    height: 100vh;
+    position: absolute;
+    margin-top: 80px;
+    padding-right: 60px;
+}
+
+.clients td{
+    /* width: 20px; */
+    height: 10px;
+}
+
+.header{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+
+.header span{
+    background-color: rgb(255, 166, 0);
+    padding: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+.pic{
+    display: flex; 
+    justify-content: left;
+    /* margin-right: 15px; */
+}
+
+.namepic h5{
+    color: grey;
+    
+}
+
+.namepic{
+    margin-left: 15px;
+}
+
+.header h5{
+    margin-left: 20px;
+    color: grey;
+}
+
+.t1{
+    margin-right: 50px;
+}
+
+.t2{
+    margin-left: 20px;
+}
+
+.t2 h3{
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 166, 0);
+}
+
+.t2 p{
+    margin-left: 50px;
+    padding: 15px;
+    border: 1px solid rgb(218, 211, 211);
+}
+
+h2{
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 166, 0);
+}
+
+.lastHead h2{
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 166, 0);
+    margin: 0; 
+    padding: 0; 
+}
+
+.services{
+    margin-bottom: 50px;
+}
+
+
+.clients{
+    margin-bottom: 25px;
+}
+
+.lastT img{
+    border: 1px solid rgb(218, 211, 211);
+    padding: 10px;
+    margin-right: 40px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
